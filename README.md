@@ -1,0 +1,2 @@
+# RNN_LSTM_GRUPersonNameClassifier
+使用RNN_LSTM_GRU训练模型实现人名分类并对比效果的小Demo
